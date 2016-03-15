@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "OnlineSimplicityCRM", "..\OnlineSimplicityCRM\Test.tsp", "DCDE6435-BAB3-4A68-97EA-721F2064030A"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\steven\Documents\Unified Functional Testing\OnlineSimplicityCRM\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		DCDE6435-BAB3-4A68-97EA-721F2064030A.Debug|Any CPU.Build.0 = Debug|Any CPU
+		DCDE6435-BAB3-4A68-97EA-721F2064030A.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		DCDE6435-BAB3-4A68-97EA-721F2064030A.Release|Any CPU.Build.0 = Release|Any CPU
+		DCDE6435-BAB3-4A68-97EA-721F2064030A.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
